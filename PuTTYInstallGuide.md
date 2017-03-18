@@ -14,7 +14,7 @@ PuTTY is an SSH terminal client for Windows computers. It allows connection to a
 ---
 **3.**  
 ![Installer screenshot](run-inst.png)
-> Run the installer
+> **Run** the installer
 
 ---
 **4.**  
